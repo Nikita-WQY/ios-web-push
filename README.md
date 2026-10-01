@@ -99,7 +99,11 @@ HTTP 下 `PushManager` 直接不存在。用 Let's Encrypt 免费证书。
 
 ## License
 
-MIT
+- 代码：[PolyForm Noncommercial 1.0.0](LICENSE)。
+- README 与教程：[CC BY-NC 4.0](LICENSE-CONTENT)。
+- 商业使用须另行取得书面授权，请联系 [Cheiineeey](https://github.com/Cheiineeey)。
+
+适用范围与旧版本说明见 [LICENSING.md](LICENSING.md)。
 
 ---
 
